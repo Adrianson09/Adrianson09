@@ -1,6 +1,3 @@
 - 👋 Hi, I’m @Adrianson09
 - 👀 I’m interested in Web Development
-- 💚 I’m currently learning JavaScript
-
-
-
+- 💚💛 I’m currently learning JavaScript, ReactJS and more...
